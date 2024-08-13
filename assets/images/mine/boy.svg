@@ -1,0 +1,62 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#231;&#148;&#183;">
+<rect id="&#232;&#146;&#153;&#231;&#137;&#136;" opacity="0.01" width="48" height="48" fill="#D8D8D8"/>
+<mask id="mask0_2018_4545" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48">
+<rect id="&#232;&#146;&#153;&#231;&#137;&#136;_2" width="48" height="48" fill="white"/>
+</mask>
+<g mask="url(#mask0_2018_4545)">
+<g id="Clip path group">
+<g id="Group">
+<g id="Group_2">
+<g id="Clip path group_2">
+<mask id="mask1_2018_4545" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="9" y="10" width="34" height="29">
+<g id="clippath-1">
+<path id="Vector" d="M43 10H9V39H43V10Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask1_2018_4545)">
+<g id="Group_3">
+<g id="Clip path group_3">
+<mask id="mask2_2018_4545" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="10" y="10" width="28" height="28">
+<g id="clippath-2">
+<path id="Vector_2" d="M16.87 30.63C19.21 32.97 23.01 32.97 25.36 30.63C27.7 28.29 27.7 24.49 25.36 22.14C23.02 19.8 19.22 19.8 16.87 22.14C14.53 24.48 14.53 28.28 16.87 30.63ZM13.34 34.17C9.03999 29.87 9.03999 22.91 13.34 18.61C17.15 14.8 23.07 14.37 27.35 17.32L33.84 10.83C34.62 10.05 35.89 10.05 36.67 10.83C37.45 11.61 37.45 12.88 36.67 13.66L30.18 20.15C33.14 24.44 32.71 30.35 28.89 34.16C24.59 38.46 17.63 38.46 13.33 34.16L13.34 34.17Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask2_2018_4545)">
+<g id="Group_4">
+<g id="Clip path group_4">
+<mask id="mask3_2018_4545" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="1" y="-2" width="48" height="48">
+<g id="clippath-3">
+<path id="Vector_3" d="M49 -2H1V46H49V-2Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask3_2018_4545)">
+<g id="Group_5">
+<path id="Vector_4" d="M23.2559 -5.56575L-6.56982 24.26L23.2559 54.0858L53.0817 24.26L23.2559 -5.56575Z" fill="#64A0F9"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="Clip path group_5">
+<mask id="mask4_2018_4545" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="1" y="-2" width="48" height="48">
+<g id="clippath-4">
+<path id="Vector_5" d="M49 -2H1V46H49V-2Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask4_2018_4545)">
+<g id="Group_6">
+<path id="Vector_6" d="M35.26 21.72L35.57 11.76L26.01 12.1" stroke="#64A0F9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
